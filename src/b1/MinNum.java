@@ -6,7 +6,7 @@ public class MinNum {
         int[] array = {4,7,5,18,3};
         int min = array[0];
         for(int index = 0; index < array.length; index++){
-            if(array[index] > min){
+            if(array[index] < min){
                 min = array[index];
             }
         }
