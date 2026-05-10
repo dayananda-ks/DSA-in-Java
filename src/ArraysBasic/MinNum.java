@@ -1,4 +1,4 @@
-package b1;
+package ArraysBasic;
 
 public class MinNum {
     public static void main(String[] args) {
