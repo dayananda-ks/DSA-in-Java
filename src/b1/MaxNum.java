@@ -1,6 +1,6 @@
 package b1;
 
-public class LinearTraversal {
+public class MaxNum {
     public static void main(String[] args) {
         int[] array = {4,7,5,18,3};
         int Max = array[0];
