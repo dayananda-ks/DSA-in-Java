@@ -8,6 +8,7 @@ public class MaxNum {
         for(int index = 0; index < array.length; index++){
             if(array[index] > max){
                 max = array[index];
+
             }  
         }
         System.out.println("Maximum number in a array is : " + max);
