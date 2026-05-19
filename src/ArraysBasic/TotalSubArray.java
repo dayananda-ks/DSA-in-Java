@@ -1,6 +1,7 @@
+
 package ArraysBasic;
 
-public class TotalSubarray {
+public class TotalSubArray {
     public static void main(String[] args) {
 
         System.out.println("Total subarray in a array is : " + (5*6)/2);
@@ -18,3 +19,4 @@ public class TotalSubarray {
         }
     }
 }
+
