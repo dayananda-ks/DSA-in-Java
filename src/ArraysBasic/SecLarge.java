@@ -15,7 +15,6 @@ class Solution {
     }
 }
 
-
 public class SecLarge {
     public static void main(String[] args) {
         Solution sol = new Solution();
